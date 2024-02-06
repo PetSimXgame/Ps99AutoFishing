@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimXgame/PetSimulator99/main/Ps99ScriptAutoFish"))()                
